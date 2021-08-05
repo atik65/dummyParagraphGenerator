@@ -63,7 +63,7 @@ const Paragraph = () => {
         <p>
           {value > paraData.length ? (
             <div className="alert alert-danger my-5" role="alert">
-              <strong>You Have Reached the Limit of Highest ParaGrpah</strong>
+              <strong>You Have Reached the Limit of Highest ParaGraph</strong>
             </div>
           ) : (
             ""
